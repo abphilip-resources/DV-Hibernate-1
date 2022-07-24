@@ -34,7 +34,6 @@ An ORM based on the spring framework. It implements the JPA specification provid
 ### JPA - Java Persistence API
 Specification for persistence providers, implemented by ORMs. It is not an implementation. Database at bottom, then an ORM framework and finally a persistence provider. It is a specification to standardize ORM behaviour. It provides metadata annotations to map the database tables to Java classes as well. 
 
-Default mappings :
 - Name of the object = Name of the table.
 - Fields of the object = Columns of the table.
 - Each table row is mapped to a Java object.
