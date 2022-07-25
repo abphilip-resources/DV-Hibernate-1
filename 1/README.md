@@ -8,6 +8,11 @@
 
 ---
 
+### Setup links
+- [MySQL Workbench](https://dev.mysql.com/downloads/)
+
+---
+
 ### Object relational Mapping
 **`A way to map your objects to underlying database tables`**
 
