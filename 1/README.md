@@ -11,6 +11,8 @@
 ### Setup links
 - [MySQL Workbench](https://dev.mysql.com/downloads/)
 - [Apache Maven](https://maven.apache.org/download.cgi)
+- [Java JDK](https://www.oracle.com/java/technologies/downloads/)
+- [Hibernate](https://www.hibernate.org/download.html)
 
 ---
 
