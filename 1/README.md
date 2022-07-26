@@ -10,6 +10,7 @@
 
 ### Setup links
 - [MySQL Workbench](https://dev.mysql.com/downloads/)
+- [Apache Maven](https://maven.apache.org/download.cgi)
 
 ---
 
