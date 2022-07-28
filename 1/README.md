@@ -13,8 +13,6 @@
 - [Apache Maven](https://maven.apache.org/download.cgi)
 - [Java JDK](https://www.oracle.com/java/technologies/downloads/)
 
-All these are required for running the projects in this repository.
-
 ---
 
 ### Object relational Mapping
