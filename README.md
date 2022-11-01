@@ -1,1 +1,1 @@
-# Java: Hibernate
+# Dev: Java Hibernate
